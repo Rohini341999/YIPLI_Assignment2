@@ -1,0 +1,5 @@
+mysql password - Roha@341999
+
+CREATE DATABASE Contacts;
+use Contacts
+CREATE TABLE phoneBook(id int,phoneNo int);
